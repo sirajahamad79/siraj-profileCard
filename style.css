@@ -148,6 +148,7 @@ body {
     }
 
     .card {
+        height: auto;
         min-width: 100%;
     }
 
