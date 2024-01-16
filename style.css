@@ -105,7 +105,6 @@ body {
     border-top: 1px solid var(
         --gray);
     padding-top: 16px;
-    padding-bottom: 16px;
     gap: 12px;
     display: flex;
     margin-top: auto;
